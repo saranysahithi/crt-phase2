@@ -12,3 +12,7 @@ def performbubblesort(nums):
         fixthisindex=-1
 nums=[10,8,2,14,12,7]
 print('before sorting:',nums)
+
+performbubblesort(nums)
+
+print('after sorting:',nums)
